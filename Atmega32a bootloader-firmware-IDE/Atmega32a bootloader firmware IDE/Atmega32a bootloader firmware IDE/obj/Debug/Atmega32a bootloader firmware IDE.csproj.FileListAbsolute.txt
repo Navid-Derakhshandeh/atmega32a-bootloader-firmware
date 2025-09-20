@@ -1,0 +1,10 @@
+C:\Users\Navid\Desktop\Atmega32a bootloader-firmware-IDE\Atmega32a bootloader firmware IDE\Atmega32a bootloader firmware IDE\bin\Debug\Atmega32a bootloader firmware IDE.exe.config
+C:\Users\Navid\Desktop\Atmega32a bootloader-firmware-IDE\Atmega32a bootloader firmware IDE\Atmega32a bootloader firmware IDE\bin\Debug\Atmega32a bootloader firmware IDE.exe
+C:\Users\Navid\Desktop\Atmega32a bootloader-firmware-IDE\Atmega32a bootloader firmware IDE\Atmega32a bootloader firmware IDE\bin\Debug\Atmega32a bootloader firmware IDE.pdb
+C:\Users\Navid\Desktop\Atmega32a bootloader-firmware-IDE\Atmega32a bootloader firmware IDE\Atmega32a bootloader firmware IDE\obj\Debug\Atmega32a bootloader firmware IDE.csproj.AssemblyReference.cache
+C:\Users\Navid\Desktop\Atmega32a bootloader-firmware-IDE\Atmega32a bootloader firmware IDE\Atmega32a bootloader firmware IDE\obj\Debug\Atmega32a_bootloader_firmware_IDE.Form1.resources
+C:\Users\Navid\Desktop\Atmega32a bootloader-firmware-IDE\Atmega32a bootloader firmware IDE\Atmega32a bootloader firmware IDE\obj\Debug\Atmega32a_bootloader_firmware_IDE.Properties.Resources.resources
+C:\Users\Navid\Desktop\Atmega32a bootloader-firmware-IDE\Atmega32a bootloader firmware IDE\Atmega32a bootloader firmware IDE\obj\Debug\Atmega32a bootloader firmware IDE.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\Atmega32a bootloader-firmware-IDE\Atmega32a bootloader firmware IDE\Atmega32a bootloader firmware IDE\obj\Debug\Atmega32a bootloader firmware IDE.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\Atmega32a bootloader-firmware-IDE\Atmega32a bootloader firmware IDE\Atmega32a bootloader firmware IDE\obj\Debug\Atmega32a bootloader firmware IDE.exe
+C:\Users\Navid\Desktop\Atmega32a bootloader-firmware-IDE\Atmega32a bootloader firmware IDE\Atmega32a bootloader firmware IDE\obj\Debug\Atmega32a bootloader firmware IDE.pdb

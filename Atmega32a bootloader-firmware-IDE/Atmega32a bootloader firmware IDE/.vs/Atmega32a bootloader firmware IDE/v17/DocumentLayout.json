@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Navid\\Desktop\\Atmega32a bootloader-firmware-IDE\\Atmega32a bootloader firmware IDE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{966C9576-65FC-4281-9A97-9BF557A06089}|Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE.csproj|c:\\users\\navid\\desktop\\atmega32a bootloader-firmware-ide\\atmega32a bootloader firmware ide\\atmega32a bootloader firmware ide\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966C9576-65FC-4281-9A97-9BF557A06089}|Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE.csproj|solutionrelative:atmega32a bootloader firmware ide\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966C9576-65FC-4281-9A97-9BF557A06089}|Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE.csproj|c:\\users\\navid\\desktop\\atmega32a bootloader-firmware-ide\\atmega32a bootloader firmware ide\\atmega32a bootloader firmware ide\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{966C9576-65FC-4281-9A97-9BF557A06089}|Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE.csproj|solutionrelative:atmega32a bootloader firmware ide\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966C9576-65FC-4281-9A97-9BF557A06089}|Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE.csproj|c:\\users\\navid\\desktop\\atmega32a bootloader-firmware-ide\\atmega32a bootloader firmware ide\\atmega32a bootloader firmware ide\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966C9576-65FC-4281-9A97-9BF557A06089}|Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE.csproj|solutionrelative:atmega32a bootloader firmware ide\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Navid\\Desktop\\Atmega32a bootloader-firmware-IDE\\Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Atmega32a bootloader firmware IDE\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Navid\\Desktop\\Atmega32a bootloader-firmware-IDE\\Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE\\Form1.Designer.cs",
+              "RelativeToolTip": "Atmega32a bootloader firmware IDE\\Form1.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAewF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:35:37.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Navid\\Desktop\\Atmega32a bootloader-firmware-IDE\\Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE\\Form1.cs",
+              "RelativeDocumentMoniker": "Atmega32a bootloader firmware IDE\\Form1.cs",
+              "ToolTip": "C:\\Users\\Navid\\Desktop\\Atmega32a bootloader-firmware-IDE\\Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE\\Form1.cs",
+              "RelativeToolTip": "Atmega32a bootloader firmware IDE\\Form1.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwJMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:35:18.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Navid\\Desktop\\Atmega32a bootloader-firmware-IDE\\Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE\\Form1.cs",
+              "RelativeDocumentMoniker": "Atmega32a bootloader firmware IDE\\Form1.cs",
+              "ToolTip": "C:\\Users\\Navid\\Desktop\\Atmega32a bootloader-firmware-IDE\\Atmega32a bootloader firmware IDE\\Atmega32a bootloader firmware IDE\\Form1.cs [Design]",
+              "RelativeToolTip": "Atmega32a bootloader firmware IDE\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:34:28.103Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

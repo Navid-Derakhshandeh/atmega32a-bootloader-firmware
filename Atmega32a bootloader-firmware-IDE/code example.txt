@@ -1,0 +1,6 @@
+loop 10
+set portb0 on 
+delay 100
+set portb0 off
+delay 100
+endloop
